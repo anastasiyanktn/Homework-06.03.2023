@@ -76,7 +76,7 @@ public class Main {
 
         int[] colors = {94, 95, 96};
         for (int i = colors.length - 1; i >= 0; i--) {
-            System.out.print(colors[i] + ",");
+            System.out.print(colors[i] + ", ");
 
         }
         System.out.println();
